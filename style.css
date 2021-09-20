@@ -1,0 +1,16 @@
+.statusbar{background-color: rgb(169, 189, 226); height: 40px;
+border:2px solid black}
+.mypic{background-image: url("image/mypic1.jpg")
+    ;background-size: contain;background-repeat: no-repeat;
+    background-position: right; margin-left: 20%;border:1px solid rgb(255, 255, 255);
+    width:60%;height: 15cm ;  
+text-align: left;color: rgb(0, 0, 0);}
+input{background-color: rgb(235, 206, 186);
+margin-left: 40px;
+}
+.last{
+    border: 1px ;width: 90%;height: 20cm;
+    background-image: url(image/mypic2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
